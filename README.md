@@ -22,3 +22,7 @@ ak_serpent_encrypt - зашифрование одного блока инфор
 ak_serpent_decrypt - расшифрование одного блока информации шифра serpent
 
 ak_bckey_context_create_serpent (ak_bckey_create_serpent) - инициализация контекста секретного ключа алгоритма блочного шифрования serpent
+
+
+
+Официальное описание шифра - https://www.cl.cam.ac.uk/~rja14/Papers/ventura.pdf
